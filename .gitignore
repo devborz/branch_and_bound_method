@@ -33,3 +33,5 @@ _install/
 *.exe
 *.out
 *.app
+
+_build/*
